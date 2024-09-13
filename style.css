@@ -44,3 +44,19 @@ body {
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0, 0,0.3);
 
 }
+.container {
+    text-align: center;
+    padding: 20px;
+}
+.carta-btn {
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff7f7f;
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 0.5rem 1rem 3rem rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s;
+}
+.carta-btn:hover {
+    background-color: #ff4949;
+}
